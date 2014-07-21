@@ -1,0 +1,138 @@
+\begin{thebibliography}{10}
+
+\bibitem{QualityEstimator}
+E.~Aguiar, A.~Riker, A.~Abel{\'e}m, E.~Cerqueira, and M.~Mu.
+\newblock Video quality estimator for wireless mesh networks.
+\newblock In {\em Quality of Service (IWQoS), 2012 IEEE 20th International
+  Workshop on}, pages 1--9, 2012.
+
+\bibitem{SUMO}
+M.~Behrisch, L.~Bieker, J.~Erdmann, and D.~Krajzewicz.
+\newblock Sumo-simulation of urban mobility-an overview.
+\newblock In {\em SIMUL 2011, The Third International Conference on Advances in
+  System Simulation}, pages 55--60, 2011.
+
+\bibitem{multimediadefelice}
+M.~De~Felice, E.~Cerqueira, A.~Melo, M.~Gerla, F.~Cuomo, and A.~Baiocchi.
+\newblock A distributed beaconless routing protocol for real-time video
+  dissemination in multimedia vanets.
+\newblock {\em under revision}, 2014.
+
+\bibitem{VideoBackboneDiFelice}
+M.~Di~Felice, L.~Bedogni, and L.~Bononi.
+\newblock Group communication on highways: An evaluation study of geocast
+  protocols and applications.
+\newblock {\em Ad Hoc Networks}, 11(3):818--832, 2013.
+
+\bibitem{ns2}
+K.~Fall and K.~Varadhan.
+\newblock {\em ns notes and documents}.
+\newblock The VINT Project, UC Berkeley, LBL, USC/ISI, and Xerox PARC, February
+  2000.
+
+\bibitem{openstreetmap}
+M.~Haklay and P.~Weber.
+\newblock Openstreetmap: User-generated street maps.
+\newblock {\em Pervasive Computing, IEEE}, 7(4):12--18, 2008.
+
+\bibitem{Huang}
+C.-J. Huang, Y.-W. Wang, H.-M. Chen, A.-L. Cheng, J.-J. Jian, H.-W. Tsai, and
+  J.-J. Liao.
+\newblock {An adaptive multimedia streaming dissemination system for vehicular
+  networks}.
+\newblock {\em Applied Soft Computing}, 13(12):4508--4518, 2013.
+
+\bibitem{evalvid}
+J.~Klaue, B.~Rathke, and A.~Wolisz.
+\newblock Evalvid-a framework for video transmission and quality evaluation.
+\newblock In {\em Computer Performance Evaluation. Modelling Techniques and
+  Tools}, pages 255--272. Springer, 2003.
+
+\bibitem{RND}
+D.~Li, H.~Huang, X.~Li, M.~Li, and F.~Tang.
+\newblock A distance-based directional broadcast protocol for urban vehicular
+  ad hoc network.
+\newblock In {\em Wireless Communications, Networking and Mobile Computing,
+  WiCom 2007. International Conference on}, pages 1520--1523. IEEE.
+
+\bibitem{QoEMu}
+M.~Mu, P.~Romaniak, A.~Mauthe, M.~Leszczuk, L.~Janowski, and E.~Cerqueira.
+\newblock {Framework for the integrated video quality assessment}.
+\newblock {\em Multimedia Tools and Applications}, 61(3):787--817, 2012.
+
+\bibitem{dissemination}
+S.~Panichpapiboon and W.~Pattara-Atikom.
+\newblock A review of information dissemination protocols for vehicular ad hoc
+  networks.
+\newblock {\em Communications Surveys Tutorials, IEEE}, 14(3):784--798, 2012.
+
+\bibitem{Vehicularcommunications:emergency}
+J.-S. Park, U.~Lee, and M.~Gerla.
+\newblock Vehicular communications: emergency video streams and network coding.
+\newblock {\em Journal of Internet Services and Applications}, 1(1):57--68,
+  2010.
+
+\bibitem{Puangpronpitag2013}
+S.~Puangpronpitag, P.~Kasabai, and A.~Suwannasa.
+\newblock {Cross-layer optimization of Vehicle-to-Vehicle video streaming for
+  overtaking maneuver assistance systems}.
+\newblock {\em 2013 Fifth International Conference on Ubiquitous and Future
+  Networks (ICUFN)}, pages 345--349, jul 2013.
+
+\bibitem{rezende2014receiver}
+C.~Rezende, A.~Mammeri, A.~Boukerche, and A.~A. Loureiro.
+\newblock A receiver-based video dissemination solution for vehicular networks
+  with content transmissions decoupled from relay node selection.
+\newblock {\em Ad Hoc Networks}, 2014.
+
+\bibitem{medhocrubin}
+I.~Rubin, A.~Horng, and C.-Y. Yang.
+\newblock Lane based backbone synthesis protocols for vehicular ad hoc
+  networks.
+\newblock {\em The 13th IEEE IFIP Annual Mediterranean Ad Hoc Networking
+  Workshop}, 2014.
+
+\bibitem{VTCDeFelice}
+P.~Salvo, M.~De~Felice, F.~Cuomo, A.~Baiocchi, and I.~Rubin.
+\newblock Timer-based distributed dissemination protocols for {{VANET}}s and
+  their interaction with {{MAC}} layer.
+\newblock In {\em 77th IEEE Vehicular Technology Conference (VTC2013-Spring)},
+  pages 1--6, Dresden, Germany, 6 2013.
+
+\bibitem{VehicularAdHocGerla}
+B.~T. Sharef, R.~A. Alsaqour, and M.~Ismail.
+\newblock Vehicular communication ad hoc routing protocols: A survey.
+\newblock {\em Journal of Network and Computer Applications}, 40:363--396,
+  2014.
+
+\bibitem{DDT}
+M.-T. Sun, W.-C. Feng, T.-H. Lai, K.~Yamada, H.~Okada, and K.~Fujimura.
+\newblock {GPS-based message broadcast for adaptive inter-vehicle
+  communications}.
+\newblock In {\em IEEE VTS-Fall VTC 2000. 52nd}, volume~6, pages 2685--2692.
+
+\bibitem{StormNew}
+O.~K. Tonguz, N.~Wisitpongphan, J.~S. Parikh, F.~Bai, P.~Mudalige, and V.~K.
+  Sadekar.
+\newblock On the broadcast storm problem in ad hoc wireless networks.
+\newblock In {\em Broadband Communications, Networks and Systems, 2006.
+  BROADNETS 2006. 3rd International Conference on}, pages 1--11. IEEE, 2006.
+
+\bibitem{torres2014v2x}
+A.~Torres, Y.~Ji, C.~T. Calafate, J.-C. Cano, and P.~Manzoni.
+\newblock V2x solutions for real-time video collection.
+\newblock In {\em Wireless On-demand Network Systems and Services (WONS), 11th
+  Annual Conference on}, pages 116--121. IEEE, 2014.
+
+\bibitem{MultimediaGameTheory}
+T.~Wang, L.~Song, Z.~Han, and B.~Jiao.
+\newblock Dynamic popular content distribution in vehicular networks using
+  coalition formation games.
+\newblock {\em arXiv preprint arXiv:1211.2081}, 2012.
+
+\bibitem{PBF}
+N.~Wisitpongphan, O.~Tonguz, J.~Parikh, P.~Mudalige, F.~Bai, and V.~Sadekar.
+\newblock Broadcast storm mitigation techniques in vehicular ad hoc networks.
+\newblock {\em Wireless Communications, IEEE}, 14(6):84--94, 2007.
+
+\end{thebibliography}

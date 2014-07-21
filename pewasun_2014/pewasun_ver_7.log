@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.9.24)  20 JUL 2014 09:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=latex 2013.9.24)  21 JUL 2014 12:05
 entering extended mode
-**pewasun_ver_6.tex
-(C:\Dropbox\VANET\Paper\pewasun_2014\pewasun_ver_6.tex
+**C:/Git_repos/Papers/pewasun_2014/pewasun_ver_7.tex
+(C:/Git_repos/Papers/pewasun_2014/pewasun_ver_7.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Dropbox\VANET\Paper\pewasun_2014\acm_proc_article-sp.cls
+(C:\Git_repos\Papers\pewasun_2014\acm_proc_article-sp.cls
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 
@@ -268,7 +268,7 @@ Package: mdwtab 1998/04/28 1.9 Table typesetting with style
 \fn@notes=\box32
 \fn@width=\dimen134
 )
-(C:\Dropbox\VANET\Paper\pewasun_2014\pewasun_ver_6.aux
+(C:\Git_repos\Papers\pewasun_2014\pewasun_ver_7.aux
 
 LaTeX Warning: Label `tab:parameters' multiply defined.
 
@@ -348,12 +348,12 @@ File: ./fig/CarreggiataNOc.eps Graphic file (type eps)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Overfull \hbox (1.68138pt too wide) in paragraph at lines 318--319
+Overfull \hbox (1.68138pt too wide) in paragraph at lines 320--321
 \T1/aer/m/n/9 car-ried out by us-ing a well-known real video se-quence (named
  []
 
 
-Overfull \hbox (5.26863pt too wide) in paragraph at lines 333--351
+Overfull \hbox (5.26863pt too wide) in paragraph at lines 335--353
  [][] 
  []
 
@@ -384,19 +384,19 @@ File: ./fig/frames/akiyo-Frame25-GOP15-DEN400-KM2-BITRATE1-MODERND-ST1-receiver
 .eps Graphic file (type eps)
 
 <./fig/frames/akiyo-Frame25-GOP15-DEN400-KM2-BITRATE1-MODERND-ST1-receiver.eps>
-[7] (C:\Dropbox\VANET\Paper\pewasun_2014\pewasun_ver_6.bbl) [8]
-(C:\Dropbox\VANET\Paper\pewasun_2014\pewasun_ver_6.aux)
+[7] (C:\Git_repos\Papers\pewasun_2014\pewasun_ver_7.bbl) [8]
+(C:\Git_repos\Papers\pewasun_2014\pewasun_ver_7.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2967 strings out of 493922
- 36644 string characters out of 3147275
+ 2966 strings out of 493922
+ 36591 string characters out of 3147275
  98760 words of memory out of 3000000
- 6203 multiletter control sequences out of 15000+200000
+ 6202 multiletter control sequences out of 15000+200000
  43271 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 39i,11n,28p,1346b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,11n,28p,1379b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on pewasun_ver_6.dvi (8 pages, 66968 bytes).
+Output written on pewasun_ver_7.dvi (8 pages, 66888 bytes).

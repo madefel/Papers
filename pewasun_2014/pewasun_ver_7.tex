@@ -1,4 +1,14 @@
-\documentclass{acm_proc_article-sp}
+%\documentclass{acm_proc_article-sp}
+
+\documentclass{sig-alternate-2013}
+
+% Set letter paper size:
+\setlength{\paperheight}{11in}
+\setlength{\paperwidth}{8.5in}
+\usepackage[
+  pass,% keep layout unchanged 
+  % showframe,% show the layout
+]{geometry}
 
 \usepackage{graphicx}
  \usepackage{algpseudocode}
@@ -15,9 +25,28 @@
 \usepackage{mdwtab}
 
 
+
+%%%%%%%%%%%%%BEGIN COPYRIGHT
+\newfont{\mycrnotice}{ptmr8t at 7pt}
+\newfont{\myconfname}{ptmri8t at 7pt}
+\let\crnotice\mycrnotice%
+\let\confname\myconfname%
+
+\permission{Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. Copyrights for components of this work owned by others than ACM must be honored. Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee. Request permissions from permissions@acm.org.}
+\conferenceinfo{PE-WASUN'14,}{September 21--26, 2014, Montreal, QC, Canada.}
+\copyrightetc{Copyright 2014 ACM \the\acmcopyr}
+\crdata{978-1-4503-3025-1/14/09\ ...\$15.00.\\
+http://dx.doi.org/10.1145/2653481.2653486}
+
+\clubpenalty=10000 
+\widowpenalty = 10000
+%%%%%%%%%%%%%END COPYRIGHT
+
+
 \begin{document}
 
-\title{A distributed backbone-based framework for live video sharing in VANETs}
+\title{A Distributed Backbone-based Framework \\
+for Live Video Sharing in VANETs}
 %\subtitle{[Extended Abstract]
 %\titlenote{A full version of this paper is available as
 %\textit{Author's Guide to Preparing ACM SIG Proceedings Using
@@ -118,7 +147,7 @@ Vehicular Ad-Hoc Networks (VANETs) have been expanding their portfolio to suppor
 %A category including the fourth, optional field follows...
 \category{H.5.1}{Multi-media Information Systems}{}
 %\terms{Theory}
-\keywords{Vehicular Ad Hoc Networks, multimedia, QoE, safety, smart service}
+\keywords{Vehicular Ad Hoc Networks; multimedia; QoE; safety; smart service}
 
 \section{Introduction}
 \label{intro}
@@ -254,7 +283,7 @@ The same principles apply when multiple spurious forwarders are involved. Beside
 				\If {I am a BN}
 					\If {I am in the \textit{forwarding zone}}
 						\State \Call {send}{packet}
-					\Else {} \Call{schedule forwarding}{packet}
+					%\Else {} \Call{schedule forwarding}{packet}
 				    \EndIf
 			    \Else {} \Call{schedule forwarding}{packet}
 			    \EndIf
@@ -270,7 +299,7 @@ The same principles apply when multiple spurious forwarders are involved. Beside
 	\State $h_{new}<h$: loop protection
 	\State $h_{new} \geqslant h + \gamma$: Remove my \textit{BN} status
 	\State $h \leqslant h_{new} \leqslant h + \gamma$: Spurious Forwarding check
-	\State Restart the esecution
+	\State Restart the execution
 \EndFunction
 \Function{schedule forwarding}{packet}
 			\State schedule forwarding and wait for it to elapse
